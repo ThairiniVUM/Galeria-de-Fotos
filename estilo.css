@@ -16,7 +16,7 @@ h1{
     margin: 10px;
     background-color: #628fad;
     color: white;
-    border: none;
+    border: 20px;
     cursor: pointer;
     font-size: 1.5rem;
 }
